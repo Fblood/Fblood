@@ -1,6 +1,6 @@
 ## Hello, I'm Francisco
 
-<a href="https://www.linkedin.com/in/franciscoblood/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/franciscoblood/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 [Brief Introduction]
 
@@ -14,8 +14,14 @@ My path has lead me through Sustainability in Construction, Solar Energy Install
 
 | Skill                                                       | Associated Project           |
 |-------------------------------------------------------------|------------------------------|
-| Network Design and Implementation                           | Project #1                   |
+| Home Network Design and Implementation                      | Project #1                   |
 [Projects To Follow As completed]
+
+## Certifications
+<div> 
+<img src= "https://img.shields.io/badge/-Cisco_Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
 
 
 - 🔭 I’m currently working on ...
@@ -24,8 +30,11 @@ My path has lead me through Sustainability in Construction, Solar Energy Install
     Cyber Security Fundamentals
     
 - 👯 I’m looking to collaborate on ...
+    Written Content discussing Cybersecurity in the field of Sustainability
 - 🤔 I’m looking for help with ...
+    Project Portfolio Editing and Presentation
 - 💬 Ask me about ...
+    The importance of Soil Biology Diversity
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
